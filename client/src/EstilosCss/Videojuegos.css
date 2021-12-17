@@ -1,0 +1,13 @@
+.showing{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    width: 99%;
+    align-items: flex-end;
+    
+}
+
+.loading{
+    /* width: 500px; */
+    width: 300vw;
+}

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&display=swap');
+.search {
+    display:flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    align-items:center;
+    align-content: center;
+    height: 94vh;
+      /* letter-spacing:.03rem;   */
+    /* font-weight: 400px; */
+    /* text-transform: uppercase; */
+    /* font-size: auto;  */
+    /* line-height: 30px; */
+    /* margin-block-start: 0.67em; */
+    /* margin-block-end: 1px;  */
+    /* margin-inline-start: 40px;  */
+   
+    align-items: center;
+   justify-content:center;
+   /* height: 150px; */
+   font-family: 'MerriWeather', sans-serif;
+
+}
+.navbarrr{
+  margin-left: 2%;
+  margin-top: 1%;
+}

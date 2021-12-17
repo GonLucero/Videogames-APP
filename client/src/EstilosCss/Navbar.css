@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;1,500;1,700&display=swap');
+
+.imagen:hover{
+/* margin-inline-end: 5px; */
+width: 115%;
+/* height: 100px; */
+}
+.navBar {
+    width: 306.3%;
+    height: 10vh;
+    background: rgb(81, 30, 122);
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin-left: -110%;
+    /* text-decoration: none!important; */
+    
+   
+}
+
+.navBar div {
+  width: 20%;
+  height: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navBar h3 {
+    /* text-decoration: none; */
+    width: 55%;
+    height: 80%;
+    color:rgba(255, 255, 255, 255);
+    
+    font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    /* font-size: 22px; */
+    font-size: 137%;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.navBar h3:hover{
+color: orange;
+text-decoration: none;
+}
+
+
+
+.videogames h3{
+  font-family: 'RocknRoll One', sans-serif;
+}
+.videogames:hover{
+    background-color: tomato;
+}
+.searchbar {
+  display: flex;
+  /* margin-left: 20px; */
+}
+
+.searchbar input {
+  /* height: 30px; */
+  height: 4.8vh;
+  background-color: rgb(59, 59, 59);
+  color: #ffffff;
+  /* border-radius: 10px; */
+  border: 0.3vh solid grey;
+  justify-content: space-between;
+}
+
+.searchbar form button {
+  /* height: 30px; */
+  height: 4.8vh;
+  border-radius: 0.3vh;
+  border: 0.3vh solid white;
+  background-color: white;
+}
+
+.searchbar input:hover {
+  cursor: pointer;
+  background-color: orange;
+  color: black;
+}
+
+.searchbar form button:hover {
+  cursor: pointer;
+  text-shadow:  0 0.5vh #fff0;
+  background-color: orange;
+}

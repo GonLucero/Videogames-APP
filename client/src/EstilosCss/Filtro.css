@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&display=swap');
+
+.filter {
+    /* width: 1000px; */
+    width: 74vw;
+    display: flex;
+    flex-direction: row;
+    /* text-align: center; */
+    justify-content: space-between;
+    font-family: 'MerriWeather', sans-serif;
+    /* background-color: black; */
+    /* text-align: center; */
+    /* align-items: flex-start; */
+    align-content: flex-end;
+    /* font-size: 20px; */
+    font-size: 128%;
+    /* margin-block-start: 10px; */
+    margin-block-start: 2.4vh;
+    
+}
+
+/* .filter div {
+    width: 160px;
+    
+} */
+
+.filter select {
+    /* width: 150px; */
+    width: 24vh;
+    border: 0.5vh solid black;
+    /* border-radius: 10px; */
+    background: none;
+    margin: 1vh;
+    text-align: center;
+}
+
+.filter select:hover {
+    border-color:orange;
+    
+}
+
+.filter option {
+    background: none;
+}
