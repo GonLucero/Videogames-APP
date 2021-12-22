@@ -10,8 +10,11 @@
 <img width="90%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/Welcome.png" alt="About screen" title="Landing"/>
 
 
-#### Catalogue
+#### Videogames
 <img width="90%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/pi1.png" alt="About screen" title="Catalogue"/>
+
+#### Create
+<img width="90%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/pi4.png" alt="About screen" title="Catalogue"/>
 
 ## Use
 
