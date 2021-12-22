@@ -1,21 +1,21 @@
-# CineMap
+# Videogames App
 
-### A website fully developed in frontend to get information about movies, series, tv shows and more... 
+### A website fully developed in frontend to get information about videogames... 
 ### 
 ### Visit the Website here
 <a href="https://cinemap.netlify.app">Sitio Web</a>
 
 
 #### Landing
-<img width="90%" src="./src/img/landing.PNG" alt="About screen" title="Landing"/>
+<img width="90%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/Welcome.png" alt="About screen" title="Landing"/>
 
 
 #### Catalogue
-<img width="90%" src="./src/img/catalogue.PNG" alt="About screen" title="Catalogue"/>
+<img width="90%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/pi1.png" alt="About screen" title="Catalogue"/>
 
 ## Use
 
-As first impression we can see a landing page and a navegation bar that has 2 tabs "Catalogue" and "Favorites".In catalogue we have a search bar and many cards preloaded with movies, we can click on "Add to favorites" and movie card will be loaded in Favorites tab. Finally we can cilck the movie name or picture to get more details that movie
+As first impression we can see a landing page and a navegation bar that has 2 tabs "Catalogue" and "Favorites".In catalogue we have a search bar and many cards preloaded with videogameas, we can click the videogame picture to get more details that videogames
 
 ## Quick Start
 
