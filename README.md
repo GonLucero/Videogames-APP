@@ -15,7 +15,7 @@
 
 ## Use
 
-As first impression we can see a landing page and a navegation bar that has 2 tabs "Catalogue" and "Favorites".In catalogue we have a search bar and many cards preloaded with videogameas, we can click the videogame picture to get more details that videogames
+As first impression we can see a landing page and a navegation bar that has 3 tabs "Videogames", "Create" and "Search".In Videogames we have a search bar and many cards preloaded with videogames, we can click the videogame picture to get more details that videogames. In Create we can create a new videogame.
 
 ## Quick Start
 
