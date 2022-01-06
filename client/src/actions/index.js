@@ -126,12 +126,24 @@ export const ordenAsc = (type) => (dispatch, getState) => {
   //26)
 
 
-export function crearVideojuego(obj){
-  return async function(dispatch){
-    const response = await axios.post("http://localhost:3001/videogame",obj);
-    return response
+export function createVideogame(obj) {
+    return (dispatch) =>
+      fetch("http://localhost:3001/videogame", {
+        method: "POST",
+        headers: {
+          Accept: "application/json",
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(obj),
+      })
+        .then((resp) => resp.json())
+        .then((json) => {
+          dispatch({
+            type: "CREATE_VIDEOGAME",
+            payload: json,
+          });
+        });
   }
-}
 
 
   //30)
