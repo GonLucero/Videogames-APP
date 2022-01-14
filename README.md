@@ -1,6 +1,6 @@
 # Videogames App - My Personal Project
 
-### A website fully developed in frontend to get information about videogames... 
+### A website fully developed in Frontend/Backend to get information about videogames... 
 ### 
 
 
