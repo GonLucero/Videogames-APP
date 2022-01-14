@@ -1,4 +1,4 @@
-# Videogames App
+# Videogames App - My Personal Project
 
 ### A website fully developed in frontend to get information about videogames... 
 ### 
