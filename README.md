@@ -2,8 +2,7 @@
 
 ### A website fully developed in frontend to get information about videogames... 
 ### 
-### Visit the Website here
-<a href="https://cinemap.netlify.app">Sitio Web</a>
+
 
 
 #### Landing
