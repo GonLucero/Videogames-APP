@@ -126,7 +126,7 @@ export const ordenAsc = (type) => (dispatch, getState) => {
   //26)
 
 
-export function createVideogame(obj) {
+export function crearVideojuego(obj) {
     return (dispatch) =>
       fetch("http://localhost:3001/videogame", {
         method: "POST",
